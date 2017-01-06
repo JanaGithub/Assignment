@@ -1,0 +1,52 @@
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: #fff;
+  font-family: 'Oxygen', sans-serif;
+}
+#header-nav{
+	border-radius: 0;
+	background-color: #DC143C;
+	border: 0;
+}
+.navbar-brand{
+	padding-top: 25px;
+}
+.navbar-brand h1{
+	font-family: 'Caveat', cursive;
+	color: #fff;
+	margin-bottom: 0;
+	margin-top: 0;
+	font-size: 2em;
+	padding-bottom: 0;
+	line-height: 0.06;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+}
+#menu-list{
+	margin-top: 15px;
+}
+#menu-list a{
+	text-align: center;
+	color: #fff;
+	font-size: 1.5em;
+}
+#menu-list a:hover{
+	color: #DC143C;
+	background-color: #fff;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border:1px solid #fff;
+}
+#menu-title{
+	font-weight: bold;
+}
+ h2{
+	font-family: font-family: 'Caveat', cursive;
+	color:  #DC143C;
+}
+#menu-desc{
+	background-color: #DC143C;
+	margin-top: 80px;
+	min-height: 1000px;
+}
